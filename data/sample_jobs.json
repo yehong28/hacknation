@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Senior Python Developer",
+    "company": "TechCorp",
+    "description": "We are seeking an experienced Python developer to join our backend team. You will be responsible for building scalable APIs and microservices. Must have strong experience with Django or Flask, PostgreSQL, and cloud platforms like AWS. Experience with Docker and Kubernetes is a plus. You'll work on high-traffic systems processing millions of requests per day.",
+    "required_skills": ["python", "django", "postgresql", "aws", "rest api", "docker"],
+    "preferred_skills": ["kubernetes", "redis", "celery", "microservices"],
+    "required_experience_years": 5
+  },
+  {
+    "title": "Full Stack Web Developer",
+    "company": "StartupXYZ",
+    "description": "Join our fast-paced startup as a full stack developer. You'll work on both frontend and backend, building modern web applications from scratch. We use React on the frontend and Node.js with Express on the backend. Experience with MongoDB and responsive design is required. You should be comfortable working in an agile environment and wearing multiple hats.",
+    "required_skills": ["javascript", "react", "nodejs", "mongodb", "html", "css"],
+    "preferred_skills": ["typescript", "redux", "webpack", "jest"],
+    "required_experience_years": 3
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "AI Solutions Inc",
+    "description": "Looking for an ML engineer to develop and deploy machine learning models for production systems. You'll work with large datasets, build predictive models, and optimize algorithms. Strong Python skills required along with experience in TensorFlow or PyTorch. Knowledge of MLOps, model deployment, and A/B testing is essential. You should understand both the theory and practical implementation of ML algorithms.",
+    "required_skills": ["python", "machine learning", "tensorflow", "pytorch", "statistics", "sql"],
+    "preferred_skills": ["mlops", "kubernetes", "spark", "deep learning"],
+    "required_experience_years": 4
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "CloudScale Systems",
+    "description": "We need a DevOps engineer to manage our cloud infrastructure and CI/CD pipelines. You'll be responsible for automating deployments, monitoring systems, and ensuring high availability. Experience with AWS, Docker, Kubernetes, and Infrastructure as Code (Terraform) is required. You should be comfortable with scripting in Python or Bash and have experience with monitoring tools like Prometheus and Grafana.",
+    "required_skills": ["aws", "docker", "kubernetes", "terraform", "linux", "python"],
+    "preferred_skills": ["jenkins", "prometheus", "grafana", "ansible"],
+    "required_experience_years": 4
+  },
+  {
+    "title": "Frontend Developer (React)",
+    "company": "DesignHub",
+    "description": "Join our design-focused team as a frontend developer specializing in React. You'll collaborate closely with designers to build beautiful, responsive user interfaces. Strong JavaScript and React skills are required, along with experience in modern frontend tooling. You should care deeply about user experience, performance, and accessibility. Experience with TypeScript and testing frameworks is a plus.",
+    "required_skills": ["javascript", "react", "html", "css", "responsive design"],
+    "preferred_skills": ["typescript", "redux", "jest", "webpack", "scss"],
+    "required_experience_years": 3
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Analytics Pro",
+    "description": "Seeking a data scientist to extract insights from large datasets and build predictive models. You'll work with business stakeholders to understand requirements and deliver data-driven solutions. Strong Python skills with pandas, scikit-learn, and visualization libraries are required. Experience with SQL, statistical analysis, and A/B testing is essential. You should be able to communicate complex findings to non-technical audiences.",
+    "required_skills": ["python", "pandas", "scikit-learn", "sql", "statistics", "data visualization"],
+    "preferred_skills": ["tableau", "spark", "machine learning", "r"],
+    "required_experience_years": 3
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "GrowthTech",
+    "description": "Great opportunity for a junior developer to start their career at a growing tech company. You'll work on real projects from day one with mentorship from senior engineers. We're looking for someone with a computer science background and basic programming skills in any language. Enthusiasm to learn and good problem-solving skills are more important than years of experience. We'll teach you our stack (Python/Django/React).",
+    "required_skills": ["programming", "computer science", "problem solving"],
+    "preferred_skills": ["python", "javascript", "git", "sql"],
+    "required_experience_years": 1
+  }
+]

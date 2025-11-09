@@ -1,0 +1,64 @@
+SARAH CHEN
+Senior Software Engineer
+Email: sarah.chen@email.com | Phone: (555) 123-4567
+Location: San Francisco, CA | LinkedIn: linkedin.com/in/sarahchen
+
+SUMMARY
+Senior Software Engineer with 7+ years of experience building scalable web applications and APIs.
+Expert in Python, Django, and React with a strong focus on clean code and system design.
+Led multiple teams and successfully delivered projects serving millions of users.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, SQL, Java
+Web Frameworks: Django, Flask, React, Node.js, Express
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins, Git
+Tools & Methods: REST APIs, Microservices, Agile/Scrum, TDD, CI/CD
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | San Francisco, CA
+January 2020 - Present (4 years)
+• Led backend development for high-traffic e-commerce platform processing 10M+ requests/day
+• Architected and implemented microservices infrastructure using Python, Django, and Docker
+• Reduced API response time by 60% through optimization and caching strategies (Redis)
+• Mentored team of 5 junior developers and conducted code reviews
+• Implemented CI/CD pipeline with Jenkins reducing deployment time by 75%
+• Technologies: Python, Django, PostgreSQL, Redis, AWS, Docker, Kubernetes
+
+Software Engineer | StartupXYZ | San Francisco, CA
+June 2018 - December 2019 (1.5 years)
+• Developed RESTful APIs using Django and Flask serving 1M+ users
+• Built responsive frontend interfaces with React and TypeScript
+• Integrated payment processing systems (Stripe, PayPal)
+• Implemented automated testing achieving 85% code coverage
+• Technologies: Python, Django, React, PostgreSQL, AWS
+
+Junior Software Developer | Digital Solutions LLC | San Jose, CA
+August 2017 - May 2018 (10 months)
+• Developed and maintained web applications using Python and JavaScript
+• Fixed bugs and implemented new features for customer-facing applications
+• Collaborated with product team to gather requirements and deliver solutions
+• Technologies: Python, Flask, JavaScript, MySQL
+
+EDUCATION
+
+Master of Science in Computer Science | Stanford University | 2017
+Bachelor of Science in Computer Science | UC Berkeley | 2015
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate (2021)
+• Certified Kubernetes Administrator (CKA) (2020)
+
+PROJECTS
+• Open Source Contributor: Django REST Framework (2019-Present)
+• Personal Project: Built a machine learning pipeline for text classification using TensorFlow
+
+ACHIEVEMENTS
+• Led team that won company hackathon for building real-time analytics dashboard
+• Reduced system downtime by 40% through improved monitoring and alerting
+• Speaker at PyCon 2022: "Building Scalable APIs with Django"
+
+LANGUAGES
+• English (Native)
+• Mandarin Chinese (Fluent)

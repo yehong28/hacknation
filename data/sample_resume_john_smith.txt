@@ -1,0 +1,84 @@
+JOHN SMITH
+Full Stack Developer
+john.smith@email.com | (555) 987-6543 | New York, NY
+Portfolio: johnsmith.dev | GitHub: github.com/johnsmith
+
+PROFESSIONAL SUMMARY
+Full Stack Developer with 4 years of experience building modern web applications.
+Proficient in JavaScript ecosystem (React, Node.js) and experienced with both
+SQL and NoSQL databases. Passionate about creating intuitive user experiences
+and writing clean, maintainable code.
+
+SKILLS
+Frontend: JavaScript, React, Redux, HTML5, CSS3, SASS, TypeScript, Vue.js
+Backend: Node.js, Express, Python, Django, REST APIs, GraphQL
+Databases: MongoDB, PostgreSQL, MySQL, Redis
+DevOps: Docker, Git, GitHub Actions, AWS, Heroku
+Other: Jest, Webpack, Responsive Design, Agile/Scrum
+
+WORK EXPERIENCE
+
+Full Stack Developer
+WebTech Solutions | New York, NY | Mar 2021 - Present
+
+• Develop and maintain full-stack applications using React, Node.js, and MongoDB
+• Built customer portal serving 50,000+ users with real-time updates using WebSockets
+• Implemented authentication and authorization using JWT and OAuth2
+• Optimized database queries reducing load times by 45%
+• Collaborate with UX designers to implement responsive, mobile-first designs
+• Write comprehensive unit and integration tests using Jest and React Testing Library
+• Tech Stack: React, Node.js, Express, MongoDB, Redis, Docker, AWS
+
+Software Developer
+Digital Innovations Inc | New York, NY | Jun 2019 - Feb 2021
+
+• Developed responsive web applications using React and Vue.js
+• Created RESTful APIs with Node.js and Express serving 100K+ requests/day
+• Integrated third-party APIs (Stripe, Twilio, SendGrid)
+• Implemented real-time features using Socket.io
+• Participated in code reviews and pair programming sessions
+• Tech Stack: React, Vue.js, Node.js, PostgreSQL, Docker
+
+Junior Developer
+CodeStart LLC | Jersey City, NJ | Aug 2018 - May 2019
+
+• Assisted in development of web applications using JavaScript and Python
+• Fixed bugs and implemented small features under senior developer guidance
+• Learned best practices for version control, testing, and deployment
+• Tech Stack: JavaScript, Python, Flask, MySQL
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+New York University | Graduated: May 2018
+GPA: 3.7/4.0
+
+Relevant Coursework: Data Structures, Algorithms, Web Development,
+Database Systems, Software Engineering
+
+PROJECTS
+
+E-Commerce Platform (2022)
+• Built full-stack e-commerce site with React frontend and Node.js backend
+• Implemented shopping cart, payment processing (Stripe), and order management
+• Deployed on AWS with automated CI/CD pipeline
+• Technologies: React, Node.js, MongoDB, Stripe API, AWS
+
+Real-Time Chat Application (2021)
+• Created chat app with private and group messaging using Socket.io
+• Implemented user authentication and message persistence
+• Technologies: React, Node.js, Socket.io, MongoDB
+
+CERTIFICATIONS
+• MongoDB Certified Developer (2022)
+• AWS Certified Cloud Practitioner (2021)
+
+ACHIEVEMENTS
+• Won 2nd place at NYU Hackathon for building a study group matching app
+• Contributed to open-source projects: React Router, Express.js
+• Technical blog with 10,000+ monthly readers
+
+INTERESTS
+• Open Source Contribution
+• Tech Meetups & Conferences
+• Teaching coding to beginners

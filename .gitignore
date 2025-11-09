@@ -1,6 +1,62 @@
+# Virtual environments
 .venv/
+venv/
+env/
+ENV/
+
+# Codex
 .codex/
+
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+talent_matching.db
+
+# Data (keep sample files, ignore large datasets if needed)
+# data/
+# Resume.csv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Archives
 archive/
 archive.zip
-task-resume-matching-with-job-descriptions.ipynb
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/

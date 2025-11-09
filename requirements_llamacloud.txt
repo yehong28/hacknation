@@ -1,0 +1,39 @@
+# LlamaCloud/LlamaIndex Approach Requirements
+
+# Core LlamaIndex
+llama-index>=0.10.0
+llama-index-core>=0.10.0
+
+# LlamaParse for PDF parsing
+llama-parse>=0.4.0
+
+# LlamaCloud for indexing
+llama-cloud>=0.0.6
+
+# LlamaCloud Index
+llama-index-indices-managed-llama-cloud>=0.2.0
+
+# OpenAI integration
+llama-index-llms-openai>=0.1.0
+llama-index-embeddings-openai>=0.1.0
+openai>=1.10.0
+
+# Async support
+nest-asyncio>=1.5.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Jupyter (for demo notebook)
+jupyter>=1.0.0
+ipykernel>=6.25.0
