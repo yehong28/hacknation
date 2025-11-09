@@ -101,7 +101,7 @@ def match_resumes(job_profiles: pd.DataFrame, resumes: pd.DataFrame, top_k: int 
     for _, job_row in job_profiles.iterrows():
         job_vec = job_row["vector"]
         similarities = resume_matrix @ job_vec
-        top_indices = np.argsort(similaries)[::-1][:top_k]
+        top_indices = np.argsort(similarities)[::-1][:top_k]
         for idx in top_indices:
             resume_row = resumes.iloc[idx]
             results.append(
