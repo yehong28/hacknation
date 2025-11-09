@@ -2,3 +2,5 @@
 .codex/
 __pycache__/
 archive/
+archive.zip
+task-resume-matching-with-job-descriptions.ipynb
